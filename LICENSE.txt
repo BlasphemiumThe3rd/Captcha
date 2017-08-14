@@ -1,0 +1,45 @@
+
+ +---------------------------------------------------------+
+ | Image Form Valuator v1.0  Copyright www.YugDesign.com   |
+ +---------------------------------------------------------+
+ | This program may be used and hosted free of charge by   |
+ |anyone for personal purpose as long as this copyright    |
+ |notice and back link remain intact.                      |
+ +---------------------------------------------------------+
+
+
+Distributed under the terms of the GNU General Public License 
+
+
+
+
+This license agreement is a legal agreement between you and www.YugDesign.com
+By using this software you agree to be bound by the terms of this agreement. 
+This software is protected by national and international copyright laws.
+
+GRANTED RIGHTS:
+This license grants you the right to install this software on an unlimited number computer 
+systems as long as back link is provided on the website that uses the script.
+
+LIMITATIONS:
+You may not rent or lease this software, you may not transfer your rights under this license agreement.
+
+LIABILITY:
+THIS PROGRAM IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.  www.YugDesign.com 
+TAKES NO RESPONSIBILITY FOR ANY DAMAGES SUFFERED AS A RESULT OF USING, MODIFYING 
+THIS SOFTWARE. IN NO EVENT WILL www.YugDesign.com BE LIABLE FOR ANY LOST REVENUE, 
+PROFIT OR DATA, OR FOR DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR 
+PUNITIVE DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY, 
+ARISING OUT OF THE USE OF OR INABILITY TO USE SOFTWARE, EVEN IF www.YugDesign.com 
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+GENERAL:
+By installing this software you acknowledge that you have read this license agreement, 
+understand it, and agree to be bound by its terms and conditions.
+
+
+ +----------------------------------------------------------+
+ |Support Forum  http://www.yugdesign.com/forums/index.html |
+ +----------------------------------------------------------+
+
+
